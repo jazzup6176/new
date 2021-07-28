@@ -1,0 +1,2 @@
+# phoenixminer
+phoenix miner
