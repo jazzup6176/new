@@ -1,2 +1,2 @@
-# phoenixminer
-phoenix miner
+# new
+new
